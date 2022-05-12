@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int days, year;
+    float days, year;
     cout <<"Entre com os dias: ";
     cin >>days;
     year = days / 365;
